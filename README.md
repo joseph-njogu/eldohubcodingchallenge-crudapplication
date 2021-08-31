@@ -2,6 +2,9 @@
 Build a simple CRUD application using ExpressJS and MYSQL.
 # Created_By_Njogu
 <div align="center">
+<img src="eldohub.png" alt="Created_By_Njogu" width="450px">
+</div>
+<div align="center">
 <img src="horizontal.png" alt="Created_By_Njogu" width="450px">
 </div>
 
