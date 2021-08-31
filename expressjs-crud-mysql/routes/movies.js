@@ -55,7 +55,7 @@ router.post('/add', function(req, res, next) {
         }
         
         // insert query
-        dbConn.query('INSERT INTO moviess SET ?', form_data, function(err, result) {
+        dbConn.query('INSERT INTO movies SET ?', form_data, function(err, result) {
             //if(err) throw err
             if (err) {
                 req.flash('error', err)
